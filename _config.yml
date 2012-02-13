@@ -1,2 +1,4 @@
+safe: true
+pygments: true
 url: http://tor.toke.de
 exclude: fabfile.py fabfile.pyc README.md etc
